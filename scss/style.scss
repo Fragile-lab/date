@@ -30,7 +30,6 @@
 
     &__headline {
         text-align: center;
-        text-transform: uppercase;
         font-size: 31px;
         font-weight: 700;
     }
@@ -53,7 +52,8 @@
 
     &__button {
         font-size: 24px;
-        border: 2px solid #000;
+        border: 2px solid #263248;
+        color: #263248;
         border-radius: 20px;
         padding: 10px 0;
         width: 100px;
@@ -101,7 +101,6 @@
     }
     &__headline {
         text-align: center;
-        text-transform: uppercase;
         font-size: 31px;
         font-weight: 700;
     }
