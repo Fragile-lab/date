@@ -119,8 +119,6 @@ body {
 .frame1 {
   width: 100%;
   max-width: 320px;
-  -webkit-user-select: none;
-     -moz-user-select: none;
 }
 .frame1.remove {
   display: none;
@@ -182,8 +180,6 @@ body {
   width: 100%;
   max-width: 320px;
   display: none;
-  -webkit-user-select: none;
-     -moz-user-select: none;
 }
 .frame2.active {
   display: block;
